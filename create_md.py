@@ -28,5 +28,5 @@ def convert_to_md(input_file):
 
 
 # Use the function like this for any of your files
-convert_to_md('1.xlsx')
+convert_to_md('data/1.xlsx')
 
