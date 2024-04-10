@@ -1,4 +1,4 @@
-# My Vector-based Text Search Engine & QA System
+# Vector-based Text Search Engine & QA System
 
 Hello, folks! I've worked on this enjoyable project that delves into the world of Natural Language Processing (NLP) by creating an amalgamation of Information Retrieval (IR) and Question-Answering (QA) systems. It's designed to sift through textual data within a database, fetch relevant chunks in response to a natural language query, and summons the best possible answer! 🚀️
 
